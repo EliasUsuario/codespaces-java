@@ -21,6 +21,8 @@ Entorno Java 21 listo para usar en GitHub Codespaces. Sin instalar nada.
 5. Compila y ejecuta el archivo de ejemplo:
    ```bash
    javac Main.java && java Main
+   
+## Estructura
 /
 ├── .devcontainer/
 │     └── devcontainer.json
